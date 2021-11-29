@@ -1,4 +1,4 @@
-1-ree una tabla llamada CURSO con los atributos:
+1-Cree una tabla llamada CURSO con los atributos:
 create TABLE CURSO(
   codigo INT not NULL,
   nombre VARCHAR(25) not null,
